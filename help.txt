@@ -1,0 +1,15 @@
+Bem-vindo à ajuda do Sistema de Estoque
+
+
+Para cadastrar um novo cliente abra o menu
+Arquivo >> Cadastro de Cliente. [alt+shift+c]
+
+
+Para cadastrar um novo produto no estoque, abra o menu
+Arquivo >> Cadastro de Estoque. [alt+shift+p]
+
+
+Para mudar de usuário, acesse o menu Arquivo >> Mudar Usuário.
+
+
+Novas funcionalidades em breve[2016], aguarde!
